@@ -2,13 +2,13 @@
 
 Usando TypeScript com o banco de dados MySQL
 
-[Configurando o ambiente](#configurando-o-ambiente)
-[Criando o projeto](#criando-o-projeto)
-[Criando uma entidade](#criando-uma-entidade)
-[Criando uma conexão para gerar tabelas](criando-uma-conexao-para-gerar-tabelas)
+- [Configurando o ambiente](#configurando-o-ambiente)
+- [Criando o projeto](#criando-o-projeto)
+- [Criando uma entidade](#criando-uma-entidade)
+- [Criando uma conexão para gerar tabelas](criando-uma-conexao-para-gerar-tabelas)
 ----------------------------------
 
-## Configurando o ambiente {#configurando-o-ambiente}
+## Configurando o ambiente
 
 Faça Download e instale as seguintes aplicações:
 
